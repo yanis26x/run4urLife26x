@@ -1,0 +1,6017 @@
+fileFormatVersion: 2
+guid: ac2e2bd0a32bb1e44aa220d6ab9b676f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6109769875969928153
+    second: Sang2_0
+  - first:
+      213: -4269502691944587246
+    second: Sang2_1
+  - first:
+      213: -1200809380941959640
+    second: Sang2_2
+  - first:
+      213: -4121268361893613011
+    second: Sang2_3
+  - first:
+      213: 8446805690031197195
+    second: Sang2_4
+  - first:
+      213: -1228363099556447713
+    second: Sang2_5
+  - first:
+      213: 8200459860792089600
+    second: Sang2_6
+  - first:
+      213: 7059583787981969962
+    second: Sang2_7
+  - first:
+      213: 8366904409624395301
+    second: Sang2_8
+  - first:
+      213: 3548681522795562365
+    second: Sang2_9
+  - first:
+      213: 6475509869337165269
+    second: Sang2_10
+  - first:
+      213: 2425499672123881368
+    second: Sang2_11
+  - first:
+      213: 6499531945058367431
+    second: Sang2_12
+  - first:
+      213: 1622288643546221771
+    second: Sang2_13
+  - first:
+      213: -4580213825794369684
+    second: Sang2_14
+  - first:
+      213: 1315797868888593490
+    second: Sang2_15
+  - first:
+      213: 5668765190065722240
+    second: Sang2_16
+  - first:
+      213: -2775130571178279180
+    second: Sang2_17
+  - first:
+      213: 1315976792196431241
+    second: Sang2_18
+  - first:
+      213: 3672672331109515701
+    second: Sang2_19
+  - first:
+      213: 4505024905081603708
+    second: Sang2_20
+  - first:
+      213: 2867826964863026024
+    second: Sang2_21
+  - first:
+      213: 4496324671056920633
+    second: Sang2_22
+  - first:
+      213: 8236514300596529422
+    second: Sang2_23
+  - first:
+      213: 5001996616791305847
+    second: Sang2_24
+  - first:
+      213: 5571557079856709168
+    second: Sang2_25
+  - first:
+      213: 401459974624129467
+    second: Sang2_26
+  - first:
+      213: -948500491357499756
+    second: Sang2_27
+  - first:
+      213: -3530237774638081078
+    second: Sang2_28
+  - first:
+      213: 8423927570054250504
+    second: Sang2_29
+  - first:
+      213: -7294216226876398743
+    second: Sang2_30
+  - first:
+      213: 4964210953422583079
+    second: Sang2_31
+  - first:
+      213: -5578625442483771541
+    second: Sang2_32
+  - first:
+      213: -2955217141621194071
+    second: Sang2_33
+  - first:
+      213: 8071314227088338264
+    second: Sang2_34
+  - first:
+      213: 297754421074993670
+    second: Sang2_35
+  - first:
+      213: 84205539198862350
+    second: Sang2_36
+  - first:
+      213: -4639090017869131965
+    second: Sang2_37
+  - first:
+      213: 8332119313256083441
+    second: Sang2_38
+  - first:
+      213: -5515337166570956044
+    second: Sang2_39
+  - first:
+      213: -1612879249670107102
+    second: Sang2_40
+  - first:
+      213: -6611080144201332859
+    second: Sang2_41
+  - first:
+      213: -6686661381396198791
+    second: Sang2_42
+  - first:
+      213: 294924352411426072
+    second: Sang2_43
+  - first:
+      213: 9071831003497518125
+    second: Sang2_44
+  - first:
+      213: -6035901760703074487
+    second: Sang2_45
+  - first:
+      213: -8923128831837975346
+    second: Sang2_46
+  - first:
+      213: 5820942737403244046
+    second: Sang2_47
+  - first:
+      213: -7227637381848140058
+    second: Sang2_48
+  - first:
+      213: 7037955744591820793
+    second: Sang2_49
+  - first:
+      213: 2298590556714446590
+    second: Sang2_50
+  - first:
+      213: -2249889943878207588
+    second: Sang2_51
+  - first:
+      213: -7743841780058245311
+    second: Sang2_52
+  - first:
+      213: 7683130589522311022
+    second: Sang2_53
+  - first:
+      213: 8745679294105118350
+    second: Sang2_54
+  - first:
+      213: -8595095094331474485
+    second: Sang2_55
+  - first:
+      213: 7972093409763604122
+    second: Sang2_56
+  - first:
+      213: -2953782478415188693
+    second: Sang2_57
+  - first:
+      213: -4103862477116867546
+    second: Sang2_58
+  - first:
+      213: 5020110327285209329
+    second: Sang2_59
+  - first:
+      213: 7953806973287970941
+    second: Sang2_60
+  - first:
+      213: -7594595405569089172
+    second: Sang2_61
+  - first:
+      213: -4543004389318172212
+    second: Sang2_62
+  - first:
+      213: 6787686905576268383
+    second: Sang2_63
+  - first:
+      213: 7023189308083297900
+    second: Sang2_64
+  - first:
+      213: -329311305162632564
+    second: Sang2_65
+  - first:
+      213: -6215983366849651175
+    second: Sang2_66
+  - first:
+      213: 7683338141861033397
+    second: Sang2_67
+  - first:
+      213: -5582756939747470379
+    second: Sang2_68
+  - first:
+      213: 2728770635417912454
+    second: Sang2_69
+  - first:
+      213: -8496963663732325419
+    second: Sang2_70
+  - first:
+      213: -7294240910351236435
+    second: Sang2_71
+  - first:
+      213: -2728758535289232442
+    second: Sang2_72
+  - first:
+      213: -6154387065725302106
+    second: Sang2_73
+  - first:
+      213: 4430898495793866714
+    second: Sang2_74
+  - first:
+      213: 4327564146493410377
+    second: Sang2_75
+  - first:
+      213: 4227581347179921169
+    second: Sang2_76
+  - first:
+      213: -7230414360704414180
+    second: Sang2_77
+  - first:
+      213: -8977199558103309237
+    second: Sang2_78
+  - first:
+      213: 2849840388027630349
+    second: Sang2_79
+  - first:
+      213: 6919437157632219258
+    second: Sang2_80
+  - first:
+      213: -3685497222005624565
+    second: Sang2_81
+  - first:
+      213: 7474722206767234336
+    second: Sang2_82
+  - first:
+      213: -2683472169464341829
+    second: Sang2_83
+  - first:
+      213: -4418702089174336234
+    second: Sang2_84
+  - first:
+      213: -2128069931843898784
+    second: Sang2_85
+  - first:
+      213: -1863527324450570127
+    second: Sang2_86
+  - first:
+      213: 524313723571811507
+    second: Sang2_87
+  - first:
+      213: 6660397749855734063
+    second: Sang2_88
+  - first:
+      213: 3778101135981053015
+    second: Sang2_89
+  - first:
+      213: 1355796901626430550
+    second: Sang2_90
+  - first:
+      213: 6547333706588032108
+    second: Sang2_91
+  - first:
+      213: -8962999997564615190
+    second: Sang2_92
+  - first:
+      213: -8931980227521265698
+    second: Sang2_93
+  - first:
+      213: -1712732459486971702
+    second: Sang2_94
+  - first:
+      213: 4796088283751402817
+    second: Sang2_95
+  - first:
+      213: 2016651518569845529
+    second: Sang2_96
+  - first:
+      213: 815659737865438882
+    second: Sang2_97
+  - first:
+      213: -1962875816686448067
+    second: Sang2_98
+  - first:
+      213: -5528078660597820474
+    second: Sang2_99
+  - first:
+      213: -5949447648210251178
+    second: Sang2_100
+  - first:
+      213: 7553562595748484327
+    second: Sang2_101
+  - first:
+      213: -7547350052330391773
+    second: Sang2_102
+  - first:
+      213: 8184230259388710652
+    second: Sang2_103
+  - first:
+      213: -4152834721834778917
+    second: Sang2_104
+  - first:
+      213: 1548293401261553998
+    second: Sang2_105
+  - first:
+      213: 5308358001388978397
+    second: Sang2_106
+  - first:
+      213: 7426089079192801745
+    second: Sang2_107
+  - first:
+      213: -527550587207998381
+    second: Sang2_108
+  - first:
+      213: 2754701536604823435
+    second: Sang2_109
+  - first:
+      213: -8332935647912870337
+    second: Sang2_110
+  - first:
+      213: -4181308232987618184
+    second: Sang2_111
+  - first:
+      213: 2208192456440371753
+    second: Sang2_112
+  - first:
+      213: -3015536976952560130
+    second: Sang2_113
+  - first:
+      213: -5765539599758704290
+    second: Sang2_114
+  - first:
+      213: 5198762604806671877
+    second: Sang2_115
+  - first:
+      213: -789111348443272289
+    second: Sang2_116
+  - first:
+      213: -5910778302688986206
+    second: Sang2_117
+  - first:
+      213: 4580400592613595686
+    second: Sang2_118
+  - first:
+      213: -8845408621231727631
+    second: Sang2_119
+  - first:
+      213: 6026761337586321367
+    second: Sang2_120
+  - first:
+      213: -2060684080824735011
+    second: Sang2_121
+  - first:
+      213: -2095225772831730103
+    second: Sang2_122
+  - first:
+      213: -3394376024123350097
+    second: Sang2_123
+  - first:
+      213: -8023690650986369959
+    second: Sang2_124
+  - first:
+      213: 3260868207681408364
+    second: Sang2_125
+  - first:
+      213: 5866950806265448905
+    second: Sang2_126
+  - first:
+      213: -4168822072231428461
+    second: Sang2_127
+  - first:
+      213: -7098674176113789834
+    second: Sang2_128
+  - first:
+      213: 1319831212256053815
+    second: Sang2_129
+  - first:
+      213: -5132758480714789587
+    second: Sang2_130
+  - first:
+      213: -7097900387861300587
+    second: Sang2_131
+  - first:
+      213: -555493619820723792
+    second: Sang2_132
+  - first:
+      213: 2969409742385201536
+    second: Sang2_133
+  - first:
+      213: -8367680973599435874
+    second: Sang2_134
+  - first:
+      213: -7678739632484330954
+    second: Sang2_135
+  - first:
+      213: 2019061441327512914
+    second: Sang2_136
+  - first:
+      213: -5958830352643994613
+    second: Sang2_137
+  - first:
+      213: -5045603433936671359
+    second: Sang2_138
+  - first:
+      213: 4976386032015461130
+    second: Sang2_139
+  - first:
+      213: -7300256472125830202
+    second: Sang2_140
+  - first:
+      213: 962848692282487527
+    second: Sang2_141
+  - first:
+      213: 6869291823955834392
+    second: Sang2_142
+  - first:
+      213: 9176093687349889004
+    second: Sang2_143
+  - first:
+      213: 7393600567094535075
+    second: Sang2_144
+  - first:
+      213: 5749669040077882853
+    second: Sang2_145
+  - first:
+      213: -1470674118583273000
+    second: Sang2_146
+  - first:
+      213: -9206476693276485553
+    second: Sang2_147
+  - first:
+      213: 253799128461389825
+    second: Sang2_148
+  - first:
+      213: -5367488841343074447
+    second: Sang2_149
+  - first:
+      213: 8538277150847926576
+    second: Sang2_150
+  - first:
+      213: 8526216143776796297
+    second: Sang2_151
+  - first:
+      213: -6811515646134654215
+    second: Sang2_152
+  - first:
+      213: -2918624643020417201
+    second: Sang2_153
+  - first:
+      213: 431756936812710693
+    second: Sang2_154
+  - first:
+      213: -903181170573098754
+    second: Sang2_155
+  - first:
+      213: -4274811137894247553
+    second: Sang2_156
+  - first:
+      213: 6423672859164177360
+    second: Sang2_157
+  - first:
+      213: 8879785170335599879
+    second: Sang2_158
+  - first:
+      213: -6315885000983226394
+    second: Sang2_159
+  - first:
+      213: -3340048829966716198
+    second: Sang2_160
+  - first:
+      213: 8798129748047190792
+    second: Sang2_161
+  - first:
+      213: -5436439305080922002
+    second: Sang2_162
+  - first:
+      213: -1797267246761158877
+    second: Sang2_163
+  - first:
+      213: 8686061061320991296
+    second: Sang2_164
+  - first:
+      213: -61542925611518463
+    second: Sang2_165
+  - first:
+      213: 593692954662053505
+    second: Sang2_166
+  - first:
+      213: -7299057320789567696
+    second: Sang2_167
+  - first:
+      213: 5414840659666240435
+    second: Sang2_168
+  - first:
+      213: 6952771779353229180
+    second: Sang2_169
+  - first:
+      213: -6389039056548679937
+    second: Sang2_170
+  - first:
+      213: 4596211875072973231
+    second: Sang2_171
+  - first:
+      213: 8673002344851589186
+    second: Sang2_172
+  - first:
+      213: 2269305776279006838
+    second: Sang2_173
+  - first:
+      213: 8066702788491195566
+    second: Sang2_174
+  - first:
+      213: 3658947584484607884
+    second: Sang2_175
+  - first:
+      213: 3667405988562093990
+    second: Sang2_176
+  - first:
+      213: 1430296350897041251
+    second: Sang2_177
+  - first:
+      213: 3766879646050146508
+    second: Sang2_178
+  - first:
+      213: -3579273033339021602
+    second: Sang2_179
+  - first:
+      213: 2640983313155335683
+    second: Sang2_180
+  - first:
+      213: -2992939392580630230
+    second: Sang2_181
+  - first:
+      213: 6523014764406136377
+    second: Sang2_182
+  - first:
+      213: 137840429761906609
+    second: Sang2_183
+  - first:
+      213: -1055998876950350235
+    second: Sang2_184
+  - first:
+      213: -2702437286690071081
+    second: Sang2_185
+  - first:
+      213: 9025167043251636370
+    second: Sang2_186
+  - first:
+      213: 7910326830873107913
+    second: Sang2_187
+  - first:
+      213: 8920211749771142331
+    second: Sang2_188
+  - first:
+      213: -162733072395760954
+    second: Sang2_189
+  - first:
+      213: 7486396009042001026
+    second: Sang2_190
+  - first:
+      213: 4020478714452993951
+    second: Sang2_191
+  - first:
+      213: 7523728586189308398
+    second: Sang2_192
+  - first:
+      213: 3616811430714963975
+    second: Sang2_193
+  - first:
+      213: -6666306486318148994
+    second: Sang2_194
+  - first:
+      213: 6807452433984628612
+    second: Sang2_195
+  - first:
+      213: -4514287522356172132
+    second: Sang2_196
+  - first:
+      213: 7667286761274473599
+    second: Sang2_197
+  - first:
+      213: -2120441186848430060
+    second: Sang2_198
+  - first:
+      213: -2585131817527494633
+    second: Sang2_199
+  - first:
+      213: -4390448233111124686
+    second: Sang2_200
+  - first:
+      213: -8912994060263107498
+    second: Sang2_201
+  - first:
+      213: -4791199103983067338
+    second: Sang2_202
+  - first:
+      213: 6467772240445464375
+    second: Sang2_203
+  - first:
+      213: -5430464243858300035
+    second: Sang2_204
+  - first:
+      213: 4891891341771233166
+    second: Sang2_205
+  - first:
+      213: 8370201342752911054
+    second: Sang2_206
+  - first:
+      213: -8072447619558012428
+    second: Sang2_207
+  - first:
+      213: 986235830995837552
+    second: Sang2_208
+  - first:
+      213: 6070602610684181032
+    second: Sang2_209
+  - first:
+      213: 7320395885407544191
+    second: Sang2_210
+  - first:
+      213: 8320581556094686171
+    second: Sang2_211
+  - first:
+      213: 1374304542689618299
+    second: Sang2_212
+  - first:
+      213: -293088914414145320
+    second: Sang2_213
+  - first:
+      213: 5619728792361753022
+    second: Sang2_214
+  - first:
+      213: -5333295454934435583
+    second: Sang2_215
+  - first:
+      213: 5316538981816431126
+    second: Sang2_216
+  - first:
+      213: 2391948068825152502
+    second: Sang2_217
+  - first:
+      213: -4052619885602766148
+    second: Sang2_218
+  - first:
+      213: 3408516652281398298
+    second: Sang2_219
+  - first:
+      213: -3333085197437195662
+    second: Sang2_220
+  - first:
+      213: -6596422544194486517
+    second: Sang2_221
+  - first:
+      213: -544093705775997902
+    second: Sang2_222
+  - first:
+      213: 794489906164069149
+    second: Sang2_223
+  - first:
+      213: 3290334639580160468
+    second: Sang2_224
+  - first:
+      213: 9185993120554077374
+    second: Sang2_225
+  - first:
+      213: -8177093708335628729
+    second: Sang2_226
+  - first:
+      213: -2390918567859893145
+    second: Sang2_227
+  - first:
+      213: 3816295472627230764
+    second: Sang2_228
+  - first:
+      213: 3794631396930859741
+    second: Sang2_229
+  - first:
+      213: -62646280906672355
+    second: Sang2_230
+  - first:
+      213: 7968840810346301409
+    second: Sang2_231
+  - first:
+      213: -8840845531389729490
+    second: Sang2_232
+  - first:
+      213: 558805668560992928
+    second: Sang2_233
+  - first:
+      213: -5893143136367025614
+    second: Sang2_234
+  - first:
+      213: 1428911549574767903
+    second: Sang2_235
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sang2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 382
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241e633bacb53ba0800000000000000
+      internalID: -6109769875969928153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1063
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a1172cedafb4c0800000000000000
+      internalID: -4269502691944587246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1062
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6ffdea3ed55fe0800000000000000
+      internalID: -1200809380941959640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1054
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227641a2405ec6c0800000000000000
+      internalID: -4121268361893613011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1075
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cce01a505193570800000000000000
+      internalID: 8446805690031197195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1073
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a7db3e44af3fee0800000000000000
+      internalID: -1228363099556447713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1069
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9c55abc2edc170800000000000000
+      internalID: 8200459860792089600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1054
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a95c84d0ea8f160800000000000000
+      internalID: 7059583787981969962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1070
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ebf451b373d1470800000000000000
+      internalID: 8366904409624395301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1058
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c8331b037f3130800000000000000
+      internalID: 3548681522795562365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_10
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1069
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb06ddae1add950800000000000000
+      internalID: 6475509869337165269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1072
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89735c7d91b19a120800000000000000
+      internalID: 2425499672123881368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_12
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1067
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f1873ed9f23a50800000000000000
+      internalID: 6499531945058367431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_13
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1062
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc09b11de6838610800000000000000
+      internalID: 1622288643546221771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_14
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1071
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67913edacfcf60c0800000000000000
+      internalID: -4580213825794369684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_15
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1070
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254125bb037a24210800000000000000
+      internalID: 1315797868888593490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_16
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 972
+        width: 171
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08397fce7ef7bae40800000000000000
+      internalID: 5668765190065722240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_17
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1070
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7793e271cc79d0800000000000000
+      internalID: -2775130571178279180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_18
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1060
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db68f8be9434210800000000000000
+      internalID: 1315976792196431241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_19
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1061
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14038c604f7f230800000000000000
+      internalID: 3672672331109515701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_20
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1046
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c764da35840158e30800000000000000
+      internalID: 4505024905081603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_21
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1060
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86382fd1e619cc720800000000000000
+      internalID: 2867826964863026024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1042
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304c2d3777266e30800000000000000
+      internalID: 4496324671056920633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_23
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1003
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e092b721e1afd4270800000000000000
+      internalID: 8236514300596529422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_24
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1072
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e2d87db69aa6540800000000000000
+      internalID: 5001996616791305847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_25
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1029
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03efbae05a5225d40800000000000000
+      internalID: 5571557079856709168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_26
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1070
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1320b48b5429500800000000000000
+      internalID: 401459974624129467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_27
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1062
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e4a5714df36d2f0800000000000000
+      internalID: -948500491357499756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_28
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1058
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb180ea273120fc0800000000000000
+      internalID: -3530237774638081078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_29
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 890
+        width: 313
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80004ba3e7dc7e470800000000000000
+      internalID: 8423927570054250504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1054
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9636422fcfcb5ca90800000000000000
+      internalID: -7294216226876398743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1064
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253bd48f8b64e440800000000000000
+      internalID: 4964210953422583079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1052
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b676cc587bdb492b0800000000000000
+      internalID: -5578625442483771541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1060
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20687caa5fcf6d0800000000000000
+      internalID: -2955217141621194071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1060
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d2820a681130070800000000000000
+      internalID: 8071314227088338264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1050
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6022a728116d12400800000000000000
+      internalID: 297754421074993670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_36
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1044
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048114ed782b2100800000000000000
+      internalID: 84205539198862350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_37
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1020
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f89db2534ae9fb0800000000000000
+      internalID: -4639090017869131965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_38
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1050
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffecc4be52a1a370800000000000000
+      internalID: 8332119313256083441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1062
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa570a81169573b0800000000000000
+      internalID: -5515337166570956044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_40
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1045
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22090d92ed6ed99e0800000000000000
+      internalID: -1612879249670107102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_41
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1056
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cd37c2a9b044a0800000000000000
+      internalID: -6611080144201332859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1012
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8e8ca6e43433a0800000000000000
+      internalID: -6686661381396198791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1043
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d581dc228c71400800000000000000
+      internalID: 294924352411426072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1033
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2458d9ab3e95ed70800000000000000
+      internalID: 9071831003497518125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_45
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1040
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6326045b2c3ca0800000000000000
+      internalID: -6035901760703074487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_46
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1028
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc404daa9daa2480800000000000000
+      internalID: -8923128831837975346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_47
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1043
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e6fc8349428c050800000000000000
+      internalID: 5820942737403244046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_48
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1048
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e67b99481642bb90800000000000000
+      internalID: -7227637381848140058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_49
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1040
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7b0550677dba160800000000000000
+      internalID: 7037955744591820793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_50
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1036
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2801deeb36ef10800000000000000
+      internalID: 2298590556714446590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1035
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977a673409c6c0e0800000000000000
+      internalID: -2249889943878207588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_52
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1029
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147bccefde8588490800000000000000
+      internalID: -7743841780058245311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_53
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1037
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673a6f6096ff9a60800000000000000
+      internalID: 7683130589522311022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_54
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1021
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ef9c3bf4ee5970800000000000000
+      internalID: 8745679294105118350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_55
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1034
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7babec8618b880800000000000000
+      internalID: -8595095094331474485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_56
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1024
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96313dd7b092ae60800000000000000
+      internalID: 7972093409763604122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_57
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1034
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d2a465c7e0207d0800000000000000
+      internalID: -2953782478415188693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_58
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1024
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf46cf1d62c07c0800000000000000
+      internalID: -4103862477116867546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 998
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8da17beb30ba540800000000000000
+      internalID: 5020110327285209329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1026
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78bad61d49916e60800000000000000
+      internalID: 7953806973287970941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_61
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1016
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61ad3e67b39a9690800000000000000
+      internalID: -7594595405569089172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1009
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc166a9e39104f0c0800000000000000
+      internalID: -4543004389318172212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_63
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1020
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a1752745b23e50800000000000000
+      internalID: 6787686905576268383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_64
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1011
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e50aa1771677160800000000000000
+      internalID: 7023189308083297900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_65
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1020
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d24bdc1d0e6bf0800000000000000
+      internalID: -329311305162632564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_66
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1016
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e9031cf046cb9a0800000000000000
+      internalID: -6215983366849651175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_67
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 932
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b536daf453b0aa60800000000000000
+      internalID: 7683338141861033397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_68
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1024
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3510b54201682b0800000000000000
+      internalID: -5582756939747470379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_69
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 995
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6840a9d6f6a8ed520800000000000000
+      internalID: 2728770635417912454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_70
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1004
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d345d11198b41a80800000000000000
+      internalID: -8496963663732325419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_71
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1006
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da28460e986a5ca90800000000000000
+      internalID: -7294240910351236435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_72
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1004
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3254ad190812ad0800000000000000
+      internalID: -2728758535289232442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_73
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1013
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa4f213299379aa0800000000000000
+      internalID: -6154387065725302106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_74
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 988
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad72b9db4b6bd7d30800000000000000
+      internalID: 4430898495793866714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_75
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1012
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc47ea9a89e0c30800000000000000
+      internalID: 4327564146493410377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_76
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1006
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ff9b926d26baa30800000000000000
+      internalID: 4227581347179921169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_77
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1007
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e8453827868ab90800000000000000
+      internalID: -7230414360704414180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_78
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1006
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44657da0949a6380800000000000000
+      internalID: -8977199558103309237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 999
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03c2fadbbaac8720800000000000000
+      internalID: 2849840388027630349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_80
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 986
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a789e422f67c60060800000000000000
+      internalID: 6919437157632219258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_81
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 992
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b017aad9dcb7adcc0800000000000000
+      internalID: -3685497222005624565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 967
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db5198e3c8bb760800000000000000
+      internalID: 7474722206767234336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_83
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 995
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5e6e874462cad0800000000000000
+      internalID: -2683472169464341829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_84
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 989
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbc767cdd9da2c0800000000000000
+      internalID: -4418702089174336234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_85
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 992
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06231470ca39772e0800000000000000
+      internalID: -2128069931843898784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_86
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 996
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170c3e495cb6326e0800000000000000
+      internalID: -1863527324450570127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_87
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43c5cbd8cb64700800000000000000
+      internalID: 524313723571811507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 989
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2946f6177c7e6c50800000000000000
+      internalID: 6660397749855734063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_89
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75486a747f28e6430800000000000000
+      internalID: 3778101135981053015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_90
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 981
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c4054912c0d210800000000000000
+      internalID: 1355796901626430550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_91
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 989
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c0f1f115dccda50800000000000000
+      internalID: 6547333706588032108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_92
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 988
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5855f7df60d9380800000000000000
+      internalID: -8962999997564615190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_93
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 986
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf38c58e4b3b0480800000000000000
+      internalID: -8931980227521265698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 969
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac87ffc07e62b38e0800000000000000
+      internalID: -1712732459486971702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_95
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 968
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4a6022e02f8240800000000000000
+      internalID: 4796088283751402817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_96
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 977
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9139b181fd59cfb10800000000000000
+      internalID: 2016651518569845529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_97
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6ce05c53ec15b00800000000000000
+      internalID: 815659737865438882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_98
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 967
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32133038d672c4e0800000000000000
+      internalID: -1962875816686448067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_99
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 975
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c356a84fb15843b0800000000000000
+      internalID: -5528078660597820474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 958
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65215aea2e05f6da0800000000000000
+      internalID: -5949447648210251178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_101
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 964
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4144c0925a3d860800000000000000
+      internalID: 7553562595748484327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_102
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 969
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327325f6d1d624790800000000000000
+      internalID: -7547350052330391773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_103
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 950
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfefdda1f0a349170800000000000000
+      internalID: 8184230259388710652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 943
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde312ab2da2e56c0800000000000000
+      internalID: -4152834721834778917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_105
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 946
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b64e25a4ac7510800000000000000
+      internalID: 1548293401261553998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_106
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 929
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd084653a731ba940800000000000000
+      internalID: 5308358001388978397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_107
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 938
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d1b32ca4ce0760800000000000000
+      internalID: 7426089079192801745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_108
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 941
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542b683983cda8f0800000000000000
+      internalID: -527550587207998381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_109
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 895
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f9d87d37aaa3620800000000000000
+      internalID: 2754701536604823435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_110
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 926
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb6f19d277b5c80800000000000000
+      internalID: -8332935647912870337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 897
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8745b5cc05209f5c0800000000000000
+      internalID: -4181308232987618184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_112
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 908
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a53d1f65315ae10800000000000000
+      internalID: 2208192456440371753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_113
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 920
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ffa1b819a626d0800000000000000
+      internalID: -3015536976952560130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_114
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 920
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e514fe9f740bcffa0800000000000000
+      internalID: -5765539599758704290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_115
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 889
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e061b7b07b52840800000000000000
+      internalID: 5198762604806671877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 912
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2fc3d8638c05f0800000000000000
+      internalID: -789111348443272289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_117
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 889
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf22a4372b8fda0800000000000000
+      internalID: -5910778302688986206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_118
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 876
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ad8bb221ad09f30800000000000000
+      internalID: 4580400592613595686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_119
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 898
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb1e4659bbce3580800000000000000
+      internalID: -8845408621231727631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_120
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 901
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d704e0618b53a350800000000000000
+      internalID: 6026761337586321367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_121
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 895
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa3281fbaf663e0800000000000000
+      internalID: -2060684080824735011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_122
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 886
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9461f16b2434ce2e0800000000000000
+      internalID: -2095225772831730103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_123
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 890
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa366008df0c4e0d0800000000000000
+      internalID: -3394376024123350097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_124
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 855
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ca5504ddf16a090800000000000000
+      internalID: -8023690650986369959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_125
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 893
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d073aab5ee04d20800000000000000
+      internalID: 3260868207681408364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_126
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 886
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9c4228ca89b6150800000000000000
+      internalID: 5866950806265448905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_127
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 817
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e76d4a96e5526c0800000000000000
+      internalID: -4168822072231428461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674bf7c72717c7d90800000000000000
+      internalID: -7098674176113789834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_129
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 875
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73acef9ae7bf05210800000000000000
+      internalID: 1319831212256053815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_130
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 880
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d0f173b57c4c8b0800000000000000
+      internalID: -5132758480714789587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_131
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 871
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a7b6a14313f7d90800000000000000
+      internalID: -7097900387861300587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_132
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 875
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b10793fe7d7a48f0800000000000000
+      internalID: -555493619820723792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_133
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 876
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08144779d66753920800000000000000
+      internalID: 2969409742385201536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_134
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 878
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939fc60d7600eb80800000000000000
+      internalID: -8367680973599435874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_135
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 878
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632de0becf2af6590800000000000000
+      internalID: -7678739632484330954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_136
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 866
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db306fea5250c10800000000000000
+      internalID: 2019061441327512914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_137
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 849
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc6d19d5bfd4da0800000000000000
+      internalID: -5958830352643994613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_138
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 854
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18da6bad86a6af9b0800000000000000
+      internalID: -5045603433936671359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_139
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 863
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b4f77eabcaf0540800000000000000
+      internalID: 4976386032015461130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_140
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 852
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb81b1ca6740ba90800000000000000
+      internalID: -7300256472125830202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_141
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 841
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e272f3c8c9bc5d00800000000000000
+      internalID: 962848692282487527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_142
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 863
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f161d480a45f50800000000000000
+      internalID: 6869291823955834392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_143
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 843
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c1347798085f70800000000000000
+      internalID: 9176093687349889004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_144
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 832
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ebc4fa885b9660800000000000000
+      internalID: 7393600567094535075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_145
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 795
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e547e5678deacf40800000000000000
+      internalID: 5749669040077882853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_146
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 843
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9bb7d5ead179be0800000000000000
+      internalID: -1470674118583273000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_147
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 840
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f489758b9360c3080800000000000000
+      internalID: -9206476693276485553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 818
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100be3076fca58300800000000000000
+      internalID: 253799128461389825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_149
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 817
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7fd34659d285b0800000000000000
+      internalID: -5367488841343074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_150
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 826
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031002ab4dd0e7670800000000000000
+      internalID: 8538277150847926576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_151
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 812
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e4400b864335670800000000000000
+      internalID: 8526216143776796297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_152
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 818
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fae02adb92a871a0800000000000000
+      internalID: -6811515646134654215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_153
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 805
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f471118c956fe77d0800000000000000
+      internalID: -2918624643020417201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_154
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 795
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b480085a8edf500800000000000000
+      internalID: 431756936812710693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_155
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 800
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04b28b2814773f0800000000000000
+      internalID: -903181170573098754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_156
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 802
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731ee34be1dca4c0800000000000000
+      internalID: -4274811137894247553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_157
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 806
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d37ccb6e68752950800000000000000
+      internalID: 6423672859164177360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_158
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 815
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d82a7b0955b3b70800000000000000
+      internalID: 8879785170335599879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_159
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 788
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e75d2afd087958a0800000000000000
+      internalID: -6315885000983226394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_160
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 793
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ff551943c5a1d0800000000000000
+      internalID: -3340048829966716198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_161
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 800
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5620346c391a70800000000000000
+      internalID: 8798129748047190792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_162
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 798
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602ea96143ed84b0800000000000000
+      internalID: -5436439305080922002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_163
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 782
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275b5e16f2de07e0800000000000000
+      internalID: -1797267246761158877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_164
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 783
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042e369b3861b8870800000000000000
+      internalID: 8686061061320991296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_165
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 724
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106bc74090b552ff0800000000000000
+      internalID: -61542925611518463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_166
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a844c8983d3800800000000000000
+      internalID: 593692954662053505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_167
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 751
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0379f1fe90a84ba90800000000000000
+      internalID: -7299057320789567696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_168
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 742
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38fb214e0652b40800000000000000
+      internalID: 5414840659666240435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_169
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 757
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b5b098153d7060800000000000000
+      internalID: 6952771779353229180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_170
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 757
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea15224d29557a0800000000000000
+      internalID: -6389039056548679937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_171
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 753
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9182e395609cf30800000000000000
+      internalID: 4596211875072973231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_172
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 725
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248420d5ea1bc5870800000000000000
+      internalID: 8673002344851589186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_173
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 734
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2ad984913e7f10800000000000000
+      internalID: 2269305776279006838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_174
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 712
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4bba8627fa2ff60800000000000000
+      internalID: 8066702788491195566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_175
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 726
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c878af0317137c230800000000000000
+      internalID: 3658947584484607884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_176
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 728
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7426bd05e35e230800000000000000
+      internalID: 3667405988562093990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_177
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 725
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f61cef3fe69d310800000000000000
+      internalID: 1430296350897041251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_178
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 735
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8d77e8415a64430800000000000000
+      internalID: 3766879646050146508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_179
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 725
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed651b5d32ed35ec0800000000000000
+      internalID: -3579273033339021602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 703
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306ab5ea458a6a420800000000000000
+      internalID: 2640983313155335683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 715
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2945feca71f676d0800000000000000
+      internalID: -2992939392580630230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5e092e57668a50800000000000000
+      internalID: 6523014764406136377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_183
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 713
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b745abf325b9e100800000000000000
+      internalID: 137840429761906609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_184
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 705
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b928cd965851f0800000000000000
+      internalID: -1055998876950350235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_185
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 709
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd511b1b930f7ad0800000000000000
+      internalID: -2702437286690071081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_186
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2988393cb95df3d70800000000000000
+      internalID: 9025167043251636370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_187
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 676
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdde6b875027cd60800000000000000
+      internalID: 7910326830873107913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_188
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 708
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ef5a3355facb70800000000000000
+      internalID: 8920211749771142331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_189
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 677
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca84a2022bddbdf0800000000000000
+      internalID: -162733072395760954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_190
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 692
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cb9de618505e760800000000000000
+      internalID: 7486396009042001026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_191
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f976df1e61c9bc730800000000000000
+      internalID: 4020478714452993951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_192
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 700
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee104466947a96860800000000000000
+      internalID: 7523728586189308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 686
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708765365de713230800000000000000
+      internalID: 3616811430714963975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72df1ff1958c73a0800000000000000
+      internalID: -6666306486318148994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_195
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 693
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a509dbede87e50800000000000000
+      internalID: 6807452433984628612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_196
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 686
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6bf78a670a51c0800000000000000
+      internalID: -4514287522356172132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_197
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf1d4bfaca76a60800000000000000
+      internalID: 7667286761274473599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_198
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 683
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418aac2a9fda292e0800000000000000
+      internalID: -2120441186848430060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_199
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 698
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b6befe44cf1cd0800000000000000
+      internalID: -2585131817527494633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_200
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 683
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358ba4f79ef113c0800000000000000
+      internalID: -4390448233111124686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_201
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 677
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654d9d0102fae4480800000000000000
+      internalID: -8912994060263107498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_202
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 681
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5beebccd328db0800000000000000
+      internalID: -4791199103983067338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_203
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 671
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f52efb59422c950800000000000000
+      internalID: 6467772240445464375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_204
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 677
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ad53ca8d13a4b0800000000000000
+      internalID: -5430464243858300035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_205
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 684
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87551ac14d73e340800000000000000
+      internalID: 4891891341771233166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_206
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 663
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee84526cde82470800000000000000
+      internalID: 8370201342752911054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_207
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 676
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f90c40e8a7e8ff80800000000000000
+      internalID: -8072447619558012428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e4435340dfad00800000000000000
+      internalID: 986235830995837552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 660
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab36639ec1f3450800000000000000
+      internalID: 6070602610684181032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_210
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 675
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73a2fcc545479560800000000000000
+      internalID: 7320395885407544191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_211
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 645
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d0b747d4a87370800000000000000
+      internalID: 8320581556094686171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_212
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79683043b2821310800000000000000
+      internalID: 1374304542689618299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_213
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 664
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d07db86f2dbeebf0800000000000000
+      internalID: -293088914414145320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_214
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 664
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d1c2ef894dfd40800000000000000
+      internalID: 5619728792361753022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_215
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 658
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097d6e6a045cf5b0800000000000000
+      internalID: -5333295454934435583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_216
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 650
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127fa5290428c940800000000000000
+      internalID: 5316538981816431126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_217
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 641
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb31837818e13120800000000000000
+      internalID: 2391948068825152502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_218
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 656
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb286fc8fa332c7c0800000000000000
+      internalID: -4052619885602766148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_219
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 614
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148c3e06db7d4f20800000000000000
+      internalID: 3408516652281398298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_220
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 654
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa4a02ca08eb1d0800000000000000
+      internalID: -3333085197437195662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb8e835acc474a0800000000000000
+      internalID: -6596422544194486517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_222
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 621
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c12b648adf278f0800000000000000
+      internalID: -544093705775997902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_223
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 648
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13fa8a3c58960b00800000000000000
+      internalID: 794489906164069149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_224
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 656
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1a658fbed99ad20800000000000000
+      internalID: 3290334639580160468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_225
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 649
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebccecbd2143b7f70800000000000000
+      internalID: 9185993120554077374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_226
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 651
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb29ba890258e80800000000000000
+      internalID: -8177093708335628729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_227
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c43dbea30c1ded0800000000000000
+      internalID: -2390918567859893145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28a0e3438436f430800000000000000
+      internalID: 3816295472627230764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_229
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 643
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2bb93962d39a430800000000000000
+      internalID: 3794631396930859741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_230
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 606
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fe081a8f612ff0800000000000000
+      internalID: -62646280906672355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_231
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 644
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c35c0f72079e60800000000000000
+      internalID: 7968840810346301409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_232
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 640
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256a6b74d10f4580800000000000000
+      internalID: -8840845531389729490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_233
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 633
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7d0d7bc641c700800000000000000
+      internalID: 558805668560992928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_234
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 636
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ef4a6a89573ea0800000000000000
+      internalID: -5893143136367025614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sang2_235
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 645
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156bdfcb7384d310800000000000000
+      internalID: 1428911549574767903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
