@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kingdom_Hearts_3_Logo_0: 128668326486519234
+      Kingdom_Hearts_3_Logo_1: 193842625777794739
+      Kingdom_Hearts_3_Logo_2: 268882046051310628
+      Kingdom_Hearts_3_Logo_3: -6740993199050292872
+      Kingdom_Hearts_3_Logo_4: -2156022774922180282
+      Kingdom_Hearts_3_Logo_5: -8759804829049712155
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

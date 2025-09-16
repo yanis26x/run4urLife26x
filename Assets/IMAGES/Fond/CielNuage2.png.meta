@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CielNuage2_0: 5075923726094195229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

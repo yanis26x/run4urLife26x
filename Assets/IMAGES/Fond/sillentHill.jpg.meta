@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sillentHill_0: -5052599139403443970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

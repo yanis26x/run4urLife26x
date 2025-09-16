@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clouds_11_0: -8379771521105194079
+      clouds_11_1: -6018879487231213225
+      clouds_11_10: -1344183704232730026
+      clouds_11_11: -8689118520236767280
+      clouds_11_12: -771488157456296801
+      clouds_11_13: -8231554750255385442
+      clouds_11_14: 1125114346766927622
+      clouds_11_15: -2713077161864037752
+      clouds_11_16: 2469645353428081919
+      clouds_11_2: 178116704191751160
+      clouds_11_3: 8987904915042762071
+      clouds_11_4: 5962806196378246072
+      clouds_11_5: -3145037685715696159
+      clouds_11_6: -5586319015306122277
+      clouds_11_7: -1422262981774907863
+      clouds_11_8: 7280118270287654957
+      clouds_11_9: 5186837138312034708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

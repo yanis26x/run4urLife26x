@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HeartlessPlayer_0: 3343017574075554491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

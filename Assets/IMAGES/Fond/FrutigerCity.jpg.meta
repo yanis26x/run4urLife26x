@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrutigerCity_0: -4654419204876692812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

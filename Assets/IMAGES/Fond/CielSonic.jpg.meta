@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CielSonic_0: -7723440912597027281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

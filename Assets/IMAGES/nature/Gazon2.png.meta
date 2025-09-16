@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gazon2_0: -506853177424633930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

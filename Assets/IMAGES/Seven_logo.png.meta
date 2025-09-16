@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seven_logo_0: 1016585314347840639
+      Seven_logo_1: -8930900149534274731
+      Seven_logo_2: 2201741691420663963
+      Seven_logo_3: 1068054709622704722
+      Seven_logo_4: 9220398163899433860
+      Seven_logo_5: 1309148976751151672
+      Seven_logo_6: 5096182782349251412
+      Seven_logo_7: 2261163152710709326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
