@@ -23,7 +23,7 @@ public class PlayerMove : MonoBehaviour
     private bool jump = false;
 
     // ------------- ajout part 26x ---------------------
-        [Header("Ground Check")]
+    [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask groundLayer;
@@ -58,7 +58,7 @@ public class PlayerMove : MonoBehaviour
         if (x < 0f) { spriteRenderer.flipX = true; }  // regarde à gauche
 
         // ------------- ajout part 26x ---------------------
-                // ---- Détection sol ----
+        // ---- Détection sol ----
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         animator.SetBool("isGrounded", isGrounded);
 
@@ -75,17 +75,15 @@ public class PlayerMove : MonoBehaviour
         // }
 
         // --------- saut  Remplacer par version 26x ---------------
-                // ---- Gestion du saut ----
+        // ---- Gestion du saut ----
         // if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space)) && isGrounded)
         // {
         //     jump = true; // signal pour FixedUpdate
         // }
         if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space))
-{
-    jump = true;
-}
-
-
+        {
+            jump = true;
+        }
 
         // ---- Animation d’attaque ----
         if (Input.GetKey(KeyCode.Space))
@@ -115,13 +113,13 @@ public class PlayerMove : MonoBehaviour
         //     rb.AddForce(Vector2.up * 900f); // applique une force vers le haut
         // }
 
-
         // --------- saut fixedUpdate Remplacer par Version 26x -----------
-                // ---- Saut ----
+        // ---- Saut ----
         if (jump) // si le flag est actif
         {
             jump = false; // reset
 
+            // ⚠️ correction : linearVelocity -> velocity
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // reset la vitesse verticale
             rb.AddForce(Vector2.up * 900f); // applique la force
 
@@ -130,37 +128,21 @@ public class PlayerMove : MonoBehaviour
             animator.ResetTrigger("DoJump");
             animator.SetTrigger("DoJump"); // lance l’anim Jump
         }
-
-
-
-
     }
-
 
     // ------------- methode anim Hurt 26x ---------------------
     public void TakeDamage()
-{
-    animator.ResetTrigger("Hurt");
-    animator.SetTrigger("Hurt");
-
-    if (sfxHurt && audioSource)
     {
-        audioSource.PlayOneShot(sfxHurt);
-    }
-}
+        animator.ResetTrigger("Hurt");
+        animator.SetTrigger("Hurt");
 
+        if (sfxHurt && audioSource)
+        {
+            audioSource.PlayOneShot(sfxHurt);
+        }
+    }
 
     // ------------- methode detection de Trigger 26x ---------------------
-    private void OnTriggerEnter2D(Collider2D other)
-{
-    // Si l’objet a le tag "Trap"
-    if (other.CompareTag("Trap"))
-    {
-        TakeDamage();  // lance anim Hurt
-    }
-}
-
-
-    
-
+    // (Déplacée dans l’ennemi : l’ennemi déclenche maintenant le Hurt et les dégâts)
+    // private void OnTriggerEnter2D(Collider2D other) { ... }
 }
