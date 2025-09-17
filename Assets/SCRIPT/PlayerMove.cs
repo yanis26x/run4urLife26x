@@ -97,7 +97,7 @@ public class PlayerMove : MonoBehaviour
                 // ---- Saut ----
         if (jump) // si le flag est actif
         {
-            jump = false; 
+            jump = false; // réinitialise pour éviter des sauts infinis
 
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // reset la vitesse verticale
             rb.AddForce(Vector2.up * 900f); //la force

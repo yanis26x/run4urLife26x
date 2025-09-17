@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Awake(){
         currentHealth = maxHealth;
-        UpdateVieUI();
+        UpdateVieUI(); // pour toujour afficher la bonne vie
     }
  
     public void TakeDamage(int dmg)
@@ -32,10 +32,10 @@ public class PlayerHealth : MonoBehaviour
 
     void UpdateVieUI(){
         if(VieUI != null)
-            VieUI.text = "HP: " + currentHealth + "/" + maxHealth;
+            VieUI.text = "vie restante : " + currentHealth;
     }
 
-    public void AddLife(int amount)
+    public void AddLife(int amount) //pour quand tu rammasse un bonus vie ! (cherry)
 {
     currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
     UpdateVieUI();
