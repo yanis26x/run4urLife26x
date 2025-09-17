@@ -3,7 +3,6 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class EnemyAutoJump : MonoBehaviour
 {
-
     public float jumpSpeedY = 5f;   
     public float interval = 1f;     
     public bool requireGrounded = true;
@@ -23,6 +22,7 @@ public class EnemyAutoJump : MonoBehaviour
         rb.gravityScale = gravityScale;
         timer = interval;
     }
+
     void Update()
     {
         timer -= Time.deltaTime;
@@ -34,19 +34,12 @@ public class EnemyAutoJump : MonoBehaviour
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpSpeedY);
             }
             timer = interval;
-        }}
+        }
+    }
+
     bool IsGrounded()
     {
         if (groundCheck == null) return true;
         return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-    }
-
-    void OnDrawGizmosSelected()
-    {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.yellow;
-            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-        }
     }
 }
