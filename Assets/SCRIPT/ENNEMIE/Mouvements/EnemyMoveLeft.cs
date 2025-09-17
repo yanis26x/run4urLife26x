@@ -15,7 +15,7 @@ public class EnemyMoveRight : MonoBehaviour
 
     void FixedUpdate()
     {
-        // a droite
+        // toujour a droite
         rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
     }
 }

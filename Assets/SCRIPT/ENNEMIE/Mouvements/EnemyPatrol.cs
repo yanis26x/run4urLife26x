@@ -9,7 +9,7 @@ public class EnemyPatrol : MonoBehaviour
 
     private Rigidbody2D rb;
     private SpriteRenderer sr;
-    private bool goingRight = true;
+    private bool AdroiteOuPas = true;
     private float leftLimit;
     private float rightLimit;
 
@@ -26,20 +26,20 @@ public class EnemyPatrol : MonoBehaviour
     void FixedUpdate()
     {
         // direction selon le bool
-        float dir = goingRight ? 1f : -1f;
+        float dir = AdroiteOuPas ? 1f : -1f;
         rb.linearVelocity = new Vector2(dir * speed, rb.linearVelocity.y);
 
         // mm direction que le mouvement
-        sr.flipX = goingRight;
+        sr.flipX = AdroiteOuPas;
 
-        // inverse la direction si atteint une limite
-        if (goingRight && transform.position.x >= rightLimit)
+        // inverse la direction
+        if (AdroiteOuPas && transform.position.x >= rightLimit)
         {
-            goingRight = false;
+            AdroiteOuPas = false;
         }
-        else if (!goingRight && transform.position.x <= leftLimit)
+        else if (!AdroiteOuPas && transform.position.x <= leftLimit)
         {
-            goingRight = true;
+            AdroiteOuPas = true;
         }
     }
 }
