@@ -1,9 +1,9 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class EnemyMoveLeft : MonoBehaviour
+public class EnemyMoveRight : MonoBehaviour
 {
-    [Header("Vitesse de déplacement")]
+
     public float speed = 2f;
 
     private Rigidbody2D rb;
@@ -15,7 +15,7 @@ public class EnemyMoveLeft : MonoBehaviour
 
     void FixedUpdate()
     {
-        // Toujours à gauche (axe X négatif)
-        rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
+        // a droite
+        rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
     }
 }

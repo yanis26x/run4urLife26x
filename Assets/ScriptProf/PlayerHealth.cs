@@ -37,4 +37,10 @@ public class PlayerHealth : MonoBehaviour
         if(VieUI != null)
             VieUI.text = "HP: " + currentHealth + "/" + maxHealth;
     }
+
+    public void AddLife(int amount)
+{
+    currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+    UpdateVieUI();
+}
 }
