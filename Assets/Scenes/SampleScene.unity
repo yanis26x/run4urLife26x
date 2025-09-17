@@ -4411,6 +4411,7 @@ Transform:
   - {fileID: 1119320450}
   - {fileID: 2024429211}
   - {fileID: 121323276}
+  - {fileID: 1548562753}
   m_Father: {fileID: 440578953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &417564376
@@ -5329,7 +5330,7 @@ GameObject:
   - component: {fileID: 1062527272}
   - component: {fileID: 1062527271}
   m_Layer: 0
-  m_Name: ENNEMIE-type1
+  m_Name: ENNEMIE-1
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5868,7 +5869,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1227880004}
   m_Layer: 0
-  m_Name: animation
+  m_Name: ITEMSANIM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5991,7 +5992,7 @@ GameObject:
   - component: {fileID: 1414066386}
   - component: {fileID: 1414066390}
   m_Layer: 0
-  m_Name: MORT
+  m_Name: ENNEMIE-0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6259,12 +6260,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1548562751}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.59, y: 0.38, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -15.758974, y: 8.250294, z: -5.6165757}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 384826241}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1585748472
 GameObject:
@@ -7733,10 +7734,9 @@ SceneRoots:
   - {fileID: 444348578}
   - {fileID: 440714909}
   - {fileID: 1062527267}
+  - {fileID: 1414066389}
   - {fileID: 440578953}
   - {fileID: 1230400209}
   - {fileID: 1585748476}
   - {fileID: 1227880004}
   - {fileID: 2124655031}
-  - {fileID: 1548562753}
-  - {fileID: 1414066389}
