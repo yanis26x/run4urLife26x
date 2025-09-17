@@ -4022,7 +4022,7 @@ GameObject:
   - component: {fileID: 730716435}
   - component: {fileID: 730716434}
   m_Layer: 0
-  m_Name: decorFond
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

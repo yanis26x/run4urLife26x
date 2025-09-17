@@ -63,23 +63,8 @@ public class PlayerMove : MonoBehaviour
         animator.SetBool("isGrounded", isGrounded);
 
 
-        // ---- Gestion du saut ----
-        // Ancienne version commentée (force directe au moment de l’appui)
-        // if (Input.GetKeyDown(KeyCode.UpArrow)) { rb.AddForce(Vector2.up * 900f); }
+        // ---- saut ----
 
-        // Nouvelle version : déclenche un "flag" de saut
-        // if (Input.GetKeyDown(KeyCode.UpArrow))
-        // {
-        //     jump = true; // signal qu’il faut sauter dans FixedUpdate
-        //     audioSource.PlayOneShot(sfxJump); // joue le son du saut
-        // }
-
-        // --------- saut  Remplacer par version 26x ---------------
-                // ---- Gestion du saut ----
-        // if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space)) && isGrounded)
-        // {
-        //     jump = true; // signal pour FixedUpdate
-        // }
         if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space))
 {
     jump = true;
@@ -105,25 +90,17 @@ public class PlayerMove : MonoBehaviour
 
         transform.Translate(Vector2.right * 7f * Time.deltaTime * x);
 
-        // ---- Saut ----
-        // if (jump) // si le flag est actif
-        // {
-        //     jump = false; // réinitialise pour éviter des sauts infinis
 
-        //     audioSource.PlayOneShot(sfxJump); // rejoue le son du saut (⚠ doublon aussi)
-
-        //     rb.AddForce(Vector2.up * 900f); // applique une force vers le haut
-        // }
 
 
         // --------- saut fixedUpdate Remplacer par Version 26x -----------
                 // ---- Saut ----
         if (jump) // si le flag est actif
         {
-            jump = false; // reset
+            jump = false; 
 
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // reset la vitesse verticale
-            rb.AddForce(Vector2.up * 900f); // applique la force
+            rb.AddForce(Vector2.up * 900f); //la force
 
             if (sfxJump && audioSource) audioSource.PlayOneShot(sfxJump);
 
