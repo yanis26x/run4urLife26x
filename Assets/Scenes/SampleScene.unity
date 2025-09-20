@@ -5351,7 +5351,7 @@ GameObject:
   - component: {fileID: 1062527269}
   - component: {fileID: 1062527270}
   - component: {fileID: 1062527272}
-  - component: {fileID: 1062527271}
+  - component: {fileID: 1062527273}
   m_Layer: 0
   m_Name: ENNEMIE-1
   m_TagString: Trap
@@ -5510,19 +5510,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &1062527271
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1062527264}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65757560a9efdb74791d2a7a39a3db4a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
 --- !u!50 &1062527272
 Rigidbody2D:
   serializedVersion: 5
@@ -5550,6 +5537,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &1062527273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1062527264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f881bc1d11559948b13885f15ce1388, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
 --- !u!1 &1119320449
 GameObject:
   m_ObjectHideFlags: 0
